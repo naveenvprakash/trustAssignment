@@ -1,0 +1,19 @@
+{
+  "name": "trustassignment",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenvprakash/trustAssignment.git"
+  },
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenvprakash/trustAssignment/issues"
+  },
+  "homepage": "https://github.com/naveenvprakash/trustAssignment#readme"
+}
